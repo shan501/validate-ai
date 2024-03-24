@@ -2,9 +2,7 @@
 
 Document AI allows you to upload documents locally, from the web, or from another application and run queries against those documents. It can be used to ask questions about a documentation, a book, and more. All documents that are uploaded will be stored forever. You can also choose to delete uploaded documents.
 
-## Quick Peek Of Application
-This is how the application looks like
- 
+
 ## Stacks Used
 Langchain
 Pinecone
